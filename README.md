@@ -1,7 +1,7 @@
 <center>
   <h1>Hi 👋, I'm Ashutosh Kumar</h1>
   <h4>I'm a MERN Stack Developer.</h4><br/>
-  <img src='https://github.com/user-attachments/assets/713224ae-a74d-49b3-9668-60acc4830004' >
+  <img src='https://github.com/user-attachments/assets/c0e4b737-f7a4-4ea3-bac0-4f168ac8290d' >
 </center><br/><br/>
 
 - 🔭 I'm currently studying on https://www.sharpener.tech/

@@ -9,7 +9,7 @@
 - 🤔 I’m looking for job on https://in.linkedin.com/ 
 - 💬 Ask me about web development.
 -  💻 You can visit my portfolio https://httpsashu404.netlify.app/
-- 📫 How to reach me: ashutoshkumarssm352@gmail.com 
+- 📫 How to reach me: ashutoshkumarhtnn20@gmail.com 
 
 # Hashtag :
 #portfolio

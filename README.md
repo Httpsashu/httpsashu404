@@ -4,7 +4,7 @@
   <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/5210f230-92d5-40e0-944f-8548699ae559" />
 </center><br/><br/>
 
-- 🔭 I'm currently freelance working as Web developer.
+- 🔭 I'm currently owner of "Mahadeva TechLab" working as Fullstack MERN developer.
 - 🌱 I’m currently learning at https://www.javatpoint.com/
 - 🤔 I’m looking for job on https://in.linkedin.com/ 
 - 💬 Ask me about web development.
